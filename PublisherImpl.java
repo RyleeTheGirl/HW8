@@ -6,10 +6,13 @@ public class PublisherImpl implements PublisherInterface{
     public void notifySubscribers(Event theEvent) {
 
     }
-    public void registerSubscriber(SubscriberInterface s){}
+    public void registerSubscriber(SubscriberInterface s){
+        myList.add(s);
+    }
 
     @Override
     public void unregisterSubscriber(SubscriberInterface s) {
+        myList.remove(s);
 
     }
 
