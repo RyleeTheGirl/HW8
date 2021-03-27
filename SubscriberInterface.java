@@ -1,3 +1,4 @@
 public interface SubscriberInterface {
-	public void notifySubscriber();
+	public void notifySubscriber(Event theEvent);
+	public PublisherImpl getPublisherImpl();
 }
