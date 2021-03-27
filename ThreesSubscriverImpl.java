@@ -15,4 +15,8 @@ public class ThreesSubscriverImpl implements SubscriberInterface{
             }
         }
     }
+
+    public PublisherImpl getPublisherImpl() {
+        return publisherImpl;
+    }
 }
