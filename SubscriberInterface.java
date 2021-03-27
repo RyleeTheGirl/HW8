@@ -1,3 +1,3 @@
 public interface SubscriberInterface {
-	public boolean notifySubscriber();
+	public void notifySubscriber();
 }
