@@ -16,7 +16,7 @@ public class PublisherImpl implements PublisherInterface{
 
     }
 
-    public PublisherImpl PublisherImpl(){
-        return this;
+    public PublisherImpl(){
+        return;
     }
 }
