@@ -15,4 +15,7 @@ public class EvensSubscriberImpl implements SubscriberInterface{
             }
         }
     }
+    public PublisherImpl getPublisherImpl() {
+        return publisherImpl;
+    }
 }
