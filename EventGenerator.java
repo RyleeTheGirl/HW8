@@ -1,5 +1,4 @@
 import java.util.List;
-import java.lang.*;
 import java.util.Random;
 
 public class EventGenerator {
@@ -32,4 +31,3 @@ public class EventGenerator {
 
 
 }
-
