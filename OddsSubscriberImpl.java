@@ -7,7 +7,7 @@ public class OddsSubscriberImpl implements SubscriberInterface{
         if(theEvent.getEventDataValue()%2 != 0) {
             eventsReceived = eventsReceived + 1;
             if(eventsReceived <= threshold) {
-                System.out.println("SubscriberOdds:0 Event is odd: " + theEvent.getEventDataValue());
+                System.out.println("SubscriberOdds Event is odd: " + theEvent.getEventDataValue());
 
             }
             if(eventsReceived == threshold) {
