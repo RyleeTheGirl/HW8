@@ -19,8 +19,9 @@ public class EventGenerator {
             }
             if (theNewEvent.getEventDataValue()%40 == 0) {
                 for(int j = 0; j < myList.size(); j++) {
-                    myList.get(j).registerSubscriber(myList.get(j));
+                    myList.get(j).getPublisherImpl().registerSubscriber(myList.get(j));
                 }
+                
             }
         }
     }
@@ -31,3 +32,4 @@ public class EventGenerator {
 
 
 }
+
