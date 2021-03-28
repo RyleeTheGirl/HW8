@@ -1,4 +1,7 @@
+package HW8;
+
 public interface SubscriberInterface {
-	public void notifySubscriber(Event theEvent);
-	public PublisherImpl getPublisherImpl();
+    public boolean notifySubscriber(Event theEvent);
+    public PublisherImpl getPublisherImpl();
+    public void setEventsReceived(int eventsReceived);
 }
