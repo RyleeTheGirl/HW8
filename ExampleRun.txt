@@ -1,0 +1,513 @@
+Sequence Number: 0
+Data: 133
+SubscriberOdds: HW8.Event is odd: 133
+Sequence Number: 1
+Data: 106
+SubscriberEvens: HW8.Event is even: 106
+Sequence Number: 2
+Data: 41
+SubscriberOdds: HW8.Event is odd: 41
+Sequence Number: 3
+Data: 44
+SubscriberEvens: HW8.Event is even: 44
+Sequence Number: 4
+Data: 175
+SubscriberOdds: HW8.Event is odd: 175
+Sequence Number: 5
+Data: 2
+SubscriberEvens: HW8.Event is even: 2
+Sequence Number: 6
+Data: 65
+SubscriberOdds: HW8.Event is odd: 65
+Sequence Number: 7
+Data: 142
+SubscriberEvens: HW8.Event is even: 142
+Sequence Number: 8
+Data: 52
+SubscriberEvens: HW8.Event is even: 52
+Sequence Number: 9
+Data: 37
+SubscriberOdds: HW8.Event is odd: 37
+Sequence Number: 10
+Data: 168
+SubscriberThrees HW8.Event is divisible by 3: 168
+SubscriberEvens: HW8.Event is even: 168
+Sequence Number: 11
+Data: 179
+SubscriberOdds: HW8.Event is odd: 179
+Sequence Number: 12
+Data: 127
+SubscriberOdds: HW8.Event is odd: 127
+Sequence Number: 13
+Data: 122
+SubscriberEvens: HW8.Event is even: 122
+Sequence Number: 14
+Data: 14
+SubscriberEvens: HW8.Event is even: 14
+Sequence Number: 15
+Data: 7
+SubscriberOdds: HW8.Event is odd: 7
+Sequence Number: 16
+Data: 19
+SubscriberOdds: HW8.Event is odd: 19
+Sequence Number: 17
+Data: 53
+SubscriberOdds: HW8.Event is odd: 53
+Sequence Number: 18
+Data: 172
+SubscriberEvens: HW8.Event is even: 172
+Sequence Number: 19
+Data: 157
+SubscriberOdds: HW8.Event is odd: 157
+Sequence Number: 20
+Data: 95
+SubscriberOdds: HW8.Event is odd: 95
+Sequence Number: 21
+Data: 131
+SubscriberOdds: HW8.Event is odd: 131
+Sequence Number: 22
+Data: 144
+SubscriberThrees HW8.Event is divisible by 3: 144
+SubscriberEvens: HW8.Event is even: 144
+Sequence Number: 23
+Data: 20
+SubscriberEvens: HW8.Event is even: 20
+Sequence Number: 24
+Data: 25
+SubscriberOdds: HW8.Event is odd: 25
+Sequence Number: 25
+Data: 71
+SubscriberOdds: HW8.Event is odd: 71
+Sequence Number: 26
+Data: 167
+SubscriberOdds: HW8.Event is odd: 167
+Sequence Number: 27
+Data: 17
+SubscriberOdds: HW8.Event is odd: 17
+Sequence Number: 28
+Data: 31
+SubscriberOdds: HW8.Event is odd: 31
+Sequence Number: 29
+Data: 41
+SubscriberOdds: HW8.Event is odd: 41
+Sequence Number: 30
+Data: 40
+Re-registering all subscribers
+SubscriberEvens: HW8.Event is even: 40
+Sequence Number: 31
+Data: 13
+SubscriberOdds: HW8.Event is odd: 13
+Sequence Number: 32
+Data: 168
+SubscriberThrees HW8.Event is divisible by 3: 168
+SubscriberEvens: HW8.Event is even: 168
+Sequence Number: 33
+Data: 144
+SubscriberThrees HW8.Event is divisible by 3: 144
+Even threshold reached: 14
+Sequence Number: 34
+Data: 69
+SubscriberOdds: HW8.Event is odd: 69
+Odd threshold reached: 21
+Sequence Number: 35
+Data: 28
+Sequence Number: 36
+Data: 17
+Sequence Number: 37
+Data: 28
+Sequence Number: 38
+Data: 157
+Sequence Number: 39
+Data: 66
+SubscriberThrees HW8.Event is divisible by 3: 66
+Sequence Number: 40
+Data: 116
+Sequence Number: 41
+Data: 170
+Sequence Number: 42
+Data: 165
+SubscriberThrees HW8.Event is divisible by 3: 165
+Sequence Number: 43
+Data: 161
+Sequence Number: 44
+Data: 91
+Sequence Number: 45
+Data: 133
+Sequence Number: 46
+Data: 29
+Sequence Number: 47
+Data: 75
+SubscriberThrees HW8.Event is divisible by 3: 75
+Sequence Number: 48
+Data: 194
+Sequence Number: 49
+Data: 53
+Sequence Number: 50
+Data: 190
+Sequence Number: 51
+Data: 168
+SubscriberThrees HW8.Event is divisible by 3: 168
+Sequence Number: 52
+Data: 42
+SubscriberThrees HW8.Event is divisible by 3: 42
+Sequence Number: 53
+Data: 63
+SubscriberThrees HW8.Event is divisible by 3: 63
+Threes threshold reached: 10
+Sequence Number: 54
+Data: 177
+Sequence Number: 55
+Data: 197
+Sequence Number: 56
+Data: 82
+Sequence Number: 57
+Data: 57
+Sequence Number: 58
+Data: 155
+Sequence Number: 59
+Data: 1
+Sequence Number: 60
+Data: 144
+Sequence Number: 61
+Data: 88
+Sequence Number: 62
+Data: 37
+Sequence Number: 63
+Data: 157
+Sequence Number: 64
+Data: 14
+Sequence Number: 65
+Data: 168
+Sequence Number: 66
+Data: 87
+Sequence Number: 67
+Data: 128
+Sequence Number: 68
+Data: 167
+Sequence Number: 69
+Data: 159
+Sequence Number: 70
+Data: 156
+Sequence Number: 71
+Data: 60
+Sequence Number: 72
+Data: 168
+Sequence Number: 73
+Data: 158
+Sequence Number: 74
+Data: 153
+Sequence Number: 75
+Data: 48
+Sequence Number: 76
+Data: 3
+Sequence Number: 77
+Data: 141
+Sequence Number: 78
+Data: 127
+Sequence Number: 79
+Data: 115
+Sequence Number: 80
+Data: 63
+Sequence Number: 81
+Data: 98
+Sequence Number: 82
+Data: 145
+Sequence Number: 83
+Data: 90
+Sequence Number: 84
+Data: 44
+Sequence Number: 85
+Data: 30
+Sequence Number: 86
+Data: 23
+Sequence Number: 87
+Data: 118
+Sequence Number: 88
+Data: 146
+Sequence Number: 89
+Data: 148
+Sequence Number: 90
+Data: 168
+Sequence Number: 91
+Data: 181
+Sequence Number: 92
+Data: 97
+Sequence Number: 93
+Data: 47
+Sequence Number: 94
+Data: 46
+Sequence Number: 95
+Data: 11
+Sequence Number: 96
+Data: 82
+Sequence Number: 97
+Data: 119
+Sequence Number: 98
+Data: 163
+Sequence Number: 99
+Data: 4
+Sequence Number: 100
+Data: 125
+Sequence Number: 101
+Data: 175
+Sequence Number: 102
+Data: 178
+Sequence Number: 103
+Data: 9
+Sequence Number: 104
+Data: 148
+Sequence Number: 105
+Data: 166
+Sequence Number: 106
+Data: 49
+Sequence Number: 107
+Data: 93
+Sequence Number: 108
+Data: 68
+Sequence Number: 109
+Data: 39
+Sequence Number: 110
+Data: 162
+Sequence Number: 111
+Data: 139
+Sequence Number: 112
+Data: 172
+Sequence Number: 113
+Data: 120
+Re-registering all subscribers
+SubscriberEvens: HW8.Event is even: 120
+SubscriberThrees HW8.Event is divisible by 3: 120
+Sequence Number: 114
+Data: 32
+SubscriberEvens: HW8.Event is even: 32
+Sequence Number: 115
+Data: 118
+SubscriberEvens: HW8.Event is even: 118
+Sequence Number: 116
+Data: 143
+SubscriberOdds: HW8.Event is odd: 143
+Sequence Number: 117
+Data: 124
+SubscriberEvens: HW8.Event is even: 124
+Sequence Number: 118
+Data: 54
+SubscriberEvens: HW8.Event is even: 54
+SubscriberThrees HW8.Event is divisible by 3: 54
+Sequence Number: 119
+Data: 180
+SubscriberEvens: HW8.Event is even: 180
+SubscriberThrees HW8.Event is divisible by 3: 180
+Sequence Number: 120
+Data: 123
+SubscriberOdds: HW8.Event is odd: 123
+SubscriberThrees HW8.Event is divisible by 3: 123
+Sequence Number: 121
+Data: 101
+SubscriberOdds: HW8.Event is odd: 101
+Sequence Number: 122
+Data: 155
+SubscriberOdds: HW8.Event is odd: 155
+Sequence Number: 123
+Data: 104
+SubscriberEvens: HW8.Event is even: 104
+Sequence Number: 124
+Data: 179
+SubscriberOdds: HW8.Event is odd: 179
+Sequence Number: 125
+Data: 113
+SubscriberOdds: HW8.Event is odd: 113
+Sequence Number: 126
+Data: 186
+SubscriberEvens: HW8.Event is even: 186
+SubscriberThrees HW8.Event is divisible by 3: 186
+Sequence Number: 127
+Data: 35
+SubscriberOdds: HW8.Event is odd: 35
+Sequence Number: 128
+Data: 50
+SubscriberEvens: HW8.Event is even: 50
+Sequence Number: 129
+Data: 136
+SubscriberEvens: HW8.Event is even: 136
+Sequence Number: 130
+Data: 150
+SubscriberEvens: HW8.Event is even: 150
+SubscriberThrees HW8.Event is divisible by 3: 150
+Sequence Number: 131
+Data: 182
+SubscriberEvens: HW8.Event is even: 182
+Sequence Number: 132
+Data: 14
+SubscriberEvens: HW8.Event is even: 14
+Sequence Number: 133
+Data: 8
+Even threshold reached: 14
+Sequence Number: 134
+Data: 59
+SubscriberOdds: HW8.Event is odd: 59
+Sequence Number: 135
+Data: 62
+Sequence Number: 136
+Data: 84
+SubscriberThrees HW8.Event is divisible by 3: 84
+Sequence Number: 137
+Data: 76
+Sequence Number: 138
+Data: 15
+SubscriberOdds: HW8.Event is odd: 15
+SubscriberThrees HW8.Event is divisible by 3: 15
+Sequence Number: 139
+Data: 44
+Sequence Number: 140
+Data: 154
+Sequence Number: 141
+Data: 175
+SubscriberOdds: HW8.Event is odd: 175
+Sequence Number: 142
+Data: 80
+Re-registering all subscribers
+SubscriberEvens: HW8.Event is even: 80
+Sequence Number: 143
+Data: 16
+SubscriberEvens: HW8.Event is even: 16
+Sequence Number: 144
+Data: 55
+SubscriberOdds: HW8.Event is odd: 55
+Sequence Number: 145
+Data: 153
+SubscriberOdds: HW8.Event is odd: 153
+SubscriberThrees HW8.Event is divisible by 3: 153
+Sequence Number: 146
+Data: 79
+SubscriberOdds: HW8.Event is odd: 79
+Sequence Number: 147
+Data: 145
+SubscriberOdds: HW8.Event is odd: 145
+Sequence Number: 148
+Data: 39
+SubscriberOdds: HW8.Event is odd: 39
+SubscriberThrees HW8.Event is divisible by 3: 39
+Threes threshold reached: 10
+Sequence Number: 149
+Data: 85
+SubscriberOdds: HW8.Event is odd: 85
+Sequence Number: 150
+Data: 194
+SubscriberEvens: HW8.Event is even: 194
+Sequence Number: 151
+Data: 196
+SubscriberEvens: HW8.Event is even: 196
+Sequence Number: 152
+Data: 107
+SubscriberOdds: HW8.Event is odd: 107
+Sequence Number: 153
+Data: 183
+SubscriberOdds: HW8.Event is odd: 183
+Sequence Number: 154
+Data: 103
+SubscriberOdds: HW8.Event is odd: 103
+Sequence Number: 155
+Data: 135
+SubscriberOdds: HW8.Event is odd: 135
+Sequence Number: 156
+Data: 141
+SubscriberOdds: HW8.Event is odd: 141
+Odd threshold reached: 21
+Sequence Number: 157
+Data: 28
+SubscriberEvens: HW8.Event is even: 28
+Sequence Number: 158
+Data: 179
+Sequence Number: 159
+Data: 193
+Sequence Number: 160
+Data: 81
+Sequence Number: 161
+Data: 199
+Sequence Number: 162
+Data: 155
+Sequence Number: 163
+Data: 152
+SubscriberEvens: HW8.Event is even: 152
+Sequence Number: 164
+Data: 62
+SubscriberEvens: HW8.Event is even: 62
+Sequence Number: 165
+Data: 29
+Sequence Number: 166
+Data: 26
+SubscriberEvens: HW8.Event is even: 26
+Sequence Number: 167
+Data: 54
+SubscriberEvens: HW8.Event is even: 54
+Sequence Number: 168
+Data: 100
+SubscriberEvens: HW8.Event is even: 100
+Sequence Number: 169
+Data: 103
+Sequence Number: 170
+Data: 26
+SubscriberEvens: HW8.Event is even: 26
+Sequence Number: 171
+Data: 88
+SubscriberEvens: HW8.Event is even: 88
+Sequence Number: 172
+Data: 184
+SubscriberEvens: HW8.Event is even: 184
+Sequence Number: 173
+Data: 178
+Even threshold reached: 14
+Sequence Number: 174
+Data: 54
+Sequence Number: 175
+Data: 92
+Sequence Number: 176
+Data: 43
+Sequence Number: 177
+Data: 132
+Sequence Number: 178
+Data: 139
+Sequence Number: 179
+Data: 135
+Sequence Number: 180
+Data: 105
+Sequence Number: 181
+Data: 84
+Sequence Number: 182
+Data: 46
+Sequence Number: 183
+Data: 9
+Sequence Number: 184
+Data: 60
+Sequence Number: 185
+Data: 38
+Sequence Number: 186
+Data: 24
+Sequence Number: 187
+Data: 94
+Sequence Number: 188
+Data: 97
+Sequence Number: 189
+Data: 147
+Sequence Number: 190
+Data: 15
+Sequence Number: 191
+Data: 193
+Sequence Number: 192
+Data: 186
+Sequence Number: 193
+Data: 9
+Sequence Number: 194
+Data: 38
+Sequence Number: 195
+Data: 39
+Sequence Number: 196
+Data: 27
+Sequence Number: 197
+Data: 44
+Sequence Number: 198
+Data: 149
+Sequence Number: 199
+Data: 93
+
+Process finished with exit code 0
